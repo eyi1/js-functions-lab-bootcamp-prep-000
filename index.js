@@ -16,4 +16,4 @@ function happyHolidayTo(holiday, name){
   return "Happy ${holiday}, ${name}"
 }
 
-happyHolidayTo("Christmas", "EJ")
+happyHolidayTo("Independence Day", "EJ")
