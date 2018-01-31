@@ -12,7 +12,7 @@ function happyHolidaysTo(name){
  happyHolidaysTo("Grace");
 
 
-function happyHolidaysTo(holiday, name){
+function happyHolidayTo(holiday, name){
   return "Happy ${holiday}, ${name}"
 }
 
