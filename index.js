@@ -7,8 +7,4 @@ happyHolidays();
 
 
 
-function happyHolidays(name){
-  return `Happy holidays, ${name}!`
- }
 
- happyHolidays("Grace");
